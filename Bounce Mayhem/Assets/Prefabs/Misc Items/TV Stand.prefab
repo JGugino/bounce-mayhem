@@ -40,7 +40,7 @@ GameObject:
   - component: {fileID: 95318635895962680}
   - component: {fileID: 54527442762664444}
   m_Layer: 0
-  m_Name: tv_stand
+  m_Name: TV Stand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -96,8 +96,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1177271759397200}
-  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -25.05, y: 1.1692171, z: 13.97}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -15.47, y: -1.31, z: 9.58}
   m_LocalScale: {x: 4, y: 4, z: 4}
   m_Children:
   - {fileID: 4340439597455298}

@@ -1,35 +1,17 @@
 fileFormatVersion: 2
-guid: 2f79849fd18cb474bb2b2006e4f2b947
+guid: 54818c979336e104dbca65980cdba3ae
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Bulb
-    100002: //RootNode
-    100004: Lamp_Base
-    100006: Lamp_Pole
-    100008: Lamp_Top
-    400000: Bulb
-    400002: //RootNode
-    400004: Lamp_Base
-    400006: Lamp_Pole
-    400008: Lamp_Top
-    2100000: Bulb
-    2100002: Base
-    2100004: Lamp_Top
-    2100006: lamp_pole
-    2100008: lamp_base
-    2300000: Bulb
-    2300002: Lamp_Base
-    2300004: Lamp_Pole
-    2300006: Lamp_Top
-    3300000: Bulb
-    3300002: Lamp_Base
-    3300004: Lamp_Pole
-    3300006: Lamp_Top
-    4300000: Bulb
-    4300002: Lamp_Top
-    4300004: Lamp_Pole
-    4300006: Lamp_Base
+    100000: //RootNode
+    400000: //RootNode
+    2100000: FRIDGE
+    2100002: accent_two
+    2100004: accent
+    2100006: Back_Panel
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Cube
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}

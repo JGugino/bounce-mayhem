@@ -1,35 +1,36 @@
 fileFormatVersion: 2
-guid: 2f79849fd18cb474bb2b2006e4f2b947
+guid: 8caaf855fcce52241b7f92b531c83aa2
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Bulb
+    100000: Faucet
     100002: //RootNode
-    100004: Lamp_Base
-    100006: Lamp_Pole
-    100008: Lamp_Top
-    400000: Bulb
+    100004: Knob_Cold
+    100006: Knob_Hot
+    100008: Plate
+    400000: Faucet
     400002: //RootNode
-    400004: Lamp_Base
-    400006: Lamp_Pole
-    400008: Lamp_Top
-    2100000: Bulb
-    2100002: Base
-    2100004: Lamp_Top
-    2100006: lamp_pole
-    2100008: lamp_base
-    2300000: Bulb
-    2300002: Lamp_Base
-    2300004: Lamp_Pole
-    2300006: Lamp_Top
-    3300000: Bulb
-    3300002: Lamp_Base
-    3300004: Lamp_Pole
-    3300006: Lamp_Top
-    4300000: Bulb
-    4300002: Lamp_Top
-    4300004: Lamp_Pole
-    4300006: Lamp_Base
+    400004: Knob_Cold
+    400006: Knob_Hot
+    400008: Plate
+    2100000: Plate
+    2100002: Knob_Base
+    2100004: Knob_Top
+    2100006: Knob_Base_001
+    2100008: Knob_Top_001
+    2100010: Material
+    2300000: Faucet
+    2300002: Knob_Cold
+    2300004: Knob_Hot
+    2300006: Plate
+    3300000: Faucet
+    3300002: Knob_Cold
+    3300004: Knob_Hot
+    3300006: Plate
+    4300000: Plate
+    4300002: Knob_Cold
+    4300004: Knob_Hot
+    4300006: Faucet
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
