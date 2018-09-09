@@ -38,7 +38,6 @@ public class BallController : MonoBehaviour {
         {
             pcSwipe();
             pcJump();
-            pcTurnCamera();
         }
 	}
 
@@ -78,7 +77,7 @@ public class BallController : MonoBehaviour {
         {
             endPos = Camera.main.ScreenToViewportPoint(Input.mousePosition);
             preformSwipe();
-            CameraFollow.instance.turnCamera(swipe.x);
+            CameraFollow.instance.rotateCamera(swipe.x);
         }
     }
 
@@ -93,23 +92,6 @@ public class BallController : MonoBehaviour {
         }
     }
 
-    private void pcTurnCamera()
-    {
-        float direction = Input.GetAxis("Horizontal");
-
-        if (direction > 0)
-        {
-            CameraFollow.instance.turnCamera(direction);
-        }else if (direction < 0)
-        {
-            CameraFollow.instance.turnCamera(direction);
-        }
-        else if (direction  == 0)
-        {
-            CameraFollow.instance.returnToCenter();
-        }
-        
-    }
     #endregion
 
 
